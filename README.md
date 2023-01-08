@@ -1,4 +1,5 @@
-# gpt3_on_gsheet
+# GPT-3 On Google Sheet
+
 Get GPT-3 completion on google sheet using App script
 
 ![alttext](img/demo.gif)
